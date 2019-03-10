@@ -1,0 +1,14 @@
+{
+    "name": "porttitor/evvidency",
+    "description": "Evvidency Sotfware Manager (ESM)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "hermes.sergio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
